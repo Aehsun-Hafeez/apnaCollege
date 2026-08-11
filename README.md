@@ -1,3 +1,3 @@
 # apnaCollege
 remote to local
-author -- Aehsun Hafeez
+author -- Aehsun Hafeez -- React Developer
